@@ -125,3 +125,32 @@
   * Don’t use excessive weight.
   * Don’t round your back.
   * Don’t let elbows drop below shoulder level.
+ 
+---
+
+### 6. Reverse Pec Deck Machine (Rear Delt Fly)
+
+* **Target Muscle Groups:**
+
+  * Primary: Rear Deltoids (Posterior Deltoids)
+  * Secondary: Rhomboids, Trapezius, Rotator Cuff
+
+* **Required Material or Machine:**
+
+  * Pec Deck Machine (adjusted for reverse fly motion)
+
+* **Steps (How to Perform):**
+
+  1. Adjust the seat so that the handles are at shoulder height.
+  2. Sit facing the pad with your chest against it, grasp the handles.
+  3. With a slight bend in the elbows, open your arms outward and backward.
+  4. Squeeze your shoulder blades together at the peak.
+  5. Slowly return to the starting position under control.
+
+* **Don'ts:**
+
+  * Don’t let your arms go too far back (risk of hyperextension).
+  * Don’t use momentum to swing the arms.
+  * Don’t shrug your shoulders—keep traps relaxed.
+  * Don’t round or arch your back while seated.
+
