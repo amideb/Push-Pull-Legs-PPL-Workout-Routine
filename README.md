@@ -7,18 +7,18 @@
 
 | Exercise                                                                 | Sets | Reps       | Target Muscle Group | Tutorial Link                                                 |
 | ------------------------------------------------------------------------ | ---- | ---------- | ------------------- | ------------------------------------------------------------- |
-| [Flat Barbell Bench Press](Exercises/Chest.md#1-flat-barbell-bench-press) | 4    | 10–12 reps | Chest (Pectorals)   | [Watch Tutorial 1](https://youtu.be/4Y2ZdHCOXok?si=Se6cFojWz1Y7olXI) [Watch Tutorial 2](https://www.youtube.com/shorts/0cXAp6WhSj4) [Watch Tutorial 3](https://www.youtube.com/shorts/6zWoAllRufg) [Watch Tutorial 4](https://www.youtube.com/shorts/hWbUlkb5Ms4) |
-| [Incline Dumbbell Press](Exercises/Chest.md#2-incline-dumbbell-press)     | 4    | 10–12 reps | Upper Chest         | [Watch Tutorial 1](https://youtu.be/QsYre__-aro?si=NHXDClYWcp9H900S) [Watch Tutorial 2](https://www.youtube.com/shorts/8fXfwG4ftaQ) [Watch Tutorial 3](https://www.youtube.com/watch?v=IP4oeKh1Sd4) |
-| [Cable Chest Fly](Exercises/Chest.md#3-cablemachine-chest-fly)            | 3    | 10–12 reps | Inner Chest         | [Watch Tutorial 1](https://www.youtube.com/watch?v=mLgYNdxj-Vw) [Watch Tutorial 2](https://www.youtube.com/shorts/tGXIQR89-JE) [Watch Tutorial 3](https://www.youtube.com/shorts/y4RJDSOBEl8) [Watch Tutorial 4](https://www.youtube.com/shorts/4rzubG1aoAM) |
+| [Flat Barbell Bench Press](Exercises/Chest.md#1-flat-barbell-bench-press) | 4    | 10–12 reps | Chest (Pectorals)   | [Watch Tutorial](https://youtu.be/4Y2ZdHCOXok?si=Se6cFojWz1Y7olXI) |
+| [Incline Dumbbell Press](Exercises/Chest.md#2-incline-dumbbell-press)     | 4    | 10–12 reps | Upper Chest         | [Watch Tutorial](https://youtu.be/QsYre__-aro?si=NHXDClYWcp9H900S) |
+| [Cable Chest Fly](Exercises/Chest.md#3-cablemachine-chest-fly)            | 3    | 10–12 reps | Inner Chest         | [Watch Tutorial](https://www.youtube.com/watch?v=mLgYNdxj-Vw) |
 | [Push-ups](Exercises/Chest.md#4-push-ups)                                 | 3    | To Failure | Chest, Triceps      | [Watch Tutorial](https://youtube.com/shorts/GHJgsTIW_bQ?si=fNzWW9uSUVGdXhi3) |
 
 #### **Secondary Muscle Group: Front Delts & Triceps**
 
 | Exercise                                                                                  | Sets | Reps       | Target Muscle Group    | Tutorial Link                                                 |
 | ----------------------------------------------------------------------------------------- | ---- | ---------- | ---------------------- | ------------------------------------------------------------- |
-| [Seated Dumbbell Shoulder Press](Exercises/Shoulder.md#1-seated-dumbbell-shoulder-press)  | 3    | 8–10 reps  | Front Deltoids         | [Watch Tutorial 1](https://www.youtube.com/shorts/k6tzKisR3NY) [Watch Tutorial 2](https://www.youtube.com/shorts/paKCDdBriJw) |
-| [Cable Tricep Pushdown](Exercises/Triceps.md#1-cable-tricep-pushdown)                     | 3    | 10–12 reps | Triceps (Lateral Head) | [Watch Tutorial 1](https://www.youtube.com/watch?v=_w-HpW70nSQ) [Watch Tutorial 2](https://www.youtube.com/shorts/1FjkhpZsaxc) |
-| [Overhead Dumbbell Tricep Extension](Exercises/Triceps.md#2-overhead-dumbbell-tricep-extension) | 3    | 10–12 reps | Triceps (Long Head)    | [Watch Tutorial 1](https://www.youtube.com/watch?v=rqjLV14AeiU) [Watch Tutorial 2](https://www.youtube.com/shorts/LmA9b-kcJU0) |
+| [Seated Dumbbell Shoulder Press](Exercises/Shoulder.md#1-seated-dumbbell-shoulder-press)  | 3    | 8–10 reps  | Front Deltoids         | [Watch Tutorial](https://www.youtube.com/shorts/k6tzKisR3NY) |
+| [Cable Tricep Pushdown](Exercises/Triceps.md#1-cable-tricep-pushdown)                     | 3    | 10–12 reps | Triceps (Lateral Head) | [Watch Tutorial](https://www.youtube.com/watch?v=_w-HpW70nSQ) |
+| [Overhead Dumbbell Tricep Extension](Exercises/Triceps.md#2-overhead-dumbbell-tricep-extension) | 3    | 10–12 reps | Triceps (Long Head)    | [Watch Tutorial](https://www.youtube.com/watch?v=rqjLV14AeiU) |
 
 ---
 
@@ -112,10 +112,10 @@
 
 | Exercise                                                                 | Sets | Reps       | Target Muscle Group  | Tutorial Link                                                 |
 | ------------------------------------------------------------------------ | ---- | ---------- | -------------------- | ------------------------------------------------------------- |
-| [Romanian Deadlift](Exercises/Quads%20&%20Glutes.md#2-romanian-deadlift-rdl) | 4    | 4–6 reps   | Hamstrings, Glutes   | [Watch Tutorial 1](https://youtu.be/_oyxCn2iSjU?si=BFtFFRdCBDcrWm8U) [Watch Tutorial 2](https://youtube.com/shorts/Wou9zVQrAfs?si=YvSvYqUJBTnz8PZF) |
+| [Romanian Deadlift](Exercises/Quads%20&%20Glutes.md#2-romanian-deadlift-rdl) | 4    | 4–6 reps   | Hamstrings, Glutes   | [Watch Tutorial](https://youtu.be/_oyxCn2iSjU?si=BFtFFRdCBDcrWm8U) |
 | [Hip Thrust](Exercises/Quads%20&%20Glutes.md#5-hip-thrust)               | 4    | 8–10 reps  | Glutes               | [Watch Tutorial](https://youtube.com/shorts/96uDbymTaHM?si=1e4QZ7bwWfbHmgrO) |
-| [Leg Curl (Machine)](Exercises/Hamstrings.md#2-leg-curl-machine)         | 3    | 10–12 reps | Hamstrings           | [Watch Tutorial 1](https://youtube.com/shorts/_lgE0gPvbik?si=gTKqG2Hp8oPdVg4O) [Watch Tutorial 2](https://youtube.com/shorts/S2-lUYYyXgM?si=q9bWX-nAE0ytpM9X) |
-| [Sumo Deadlift](Exercises/Quads%20&%20Glutes.md#6-sumo-deadlift)         | 3    | 8–10 reps  | Glutes, Inner Thighs | [Watch Tutorial 1](https://youtu.be/XsrD5y8EIKU?si=bZVZRGrgtVSffxdc) [Watch Tutorial 2](https://youtube.com/shorts/k_jHUVBU-T0?si=AAZoxmTAevLeA-ta) |
+| [Leg Curl (Machine)](Exercises/Hamstrings.md#2-leg-curl-machine)         | 3    | 10–12 reps | Hamstrings           | [Watch Tutorial](https://youtube.com/shorts/_lgE0gPvbik?si=gTKqG2Hp8oPdVg4O) |
+| [Sumo Deadlift](Exercises/Quads%20&%20Glutes.md#6-sumo-deadlift)         | 3    | 8–10 reps  | Glutes, Inner Thighs | [Watch Tutorial](https://youtu.be/XsrD5y8EIKU?si=bZVZRGrgtVSffxdc) |
 
 #### **Secondary Muscle Group: Quads & Calves**
 
